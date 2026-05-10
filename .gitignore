@@ -1,4 +1,11 @@
+# Node modules
 node_modules/
+
+# Cypress generated files
 cypress/videos/
 cypress/screenshots/
 cypress/downloads/
+
+# Cypress Mochawesome reports
+cypress/reports/
+cypress/reports/mochawesome-html/
